@@ -1,6 +1,8 @@
-## Welcome to Hamid Laga's Home Page
+## Hamid Laga
 
-You can use the [editor on GitHub](https://github.com/hamidlaga/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Machine Learning, Computer Graphics and Computer VIsion
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
