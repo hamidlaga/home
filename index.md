@@ -1,12 +1,12 @@
 ## Hamid Laga
 
-Machine Learning, Computer Graphics and Computer VIsion
+Machine Learning, Computer Graphics and Computer Vision, Digital Agriculture
 
+My main expertise is in the areas of Machine Learning, Computer Vision and Computer Graphics. My research focus is on (1) the 3D reconstruction, modelling and analysis of static and deformable 3D objects, using tools from artificial intelligence, machine learning, statistics and differential geometry, with applications to modelling and simulation in computer graphics and medical diagnosis, (2) virtual and augmented reality in medical applications, and (3) computer vision with applications to medicine (medical image analysis) and agriculture (image-based plant phenotyping).
 
+I co-authored two books published, respectively, in 2017 and 2019, and more than 34 articles in top journals including IEEE Transactions on Pattern Analysis and Machine Intelligence, and ACM Transactions on Graphics (Siggraph). My work received multiple awards including the Best Paper Awards at the Eurographics Symposium on Geometry Processing (2017) and the IEEE International Conference on Shape Modelling (2006), the APRS/IAPR Best Paper Prize at DICTA (2012), and the Japan Society of Art and Science Award (2008). I was also the recipient of the Japan Society for the Promotion of Science Fellowship (April 2006 to March 2008), and have been a Chief Investigator on two ARC Linkage projects, working in close collaboration with industrial partners on problems related to image-based phenotyping, data analytics, and machine learning in agriculture and plant biology. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Latest news
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
